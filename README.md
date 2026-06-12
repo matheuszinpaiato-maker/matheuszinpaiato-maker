@@ -3,7 +3,7 @@
 <br><br>
 
 <p>
-  <img align="right" src="https://media.tenor.com/ifruPpjZsxAAAAAM/stairs.gif" width="202">
+  <img align="right" src="https://media.tenor.com/ifruPpjZsxAAAAAM/stairs.gif" width="200">
 </p>
 
 ### Linguagens que sei:
