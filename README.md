@@ -3,7 +3,7 @@
 <br><br>
 
 <p>
-  <img align="right" src="https://media.tenor.com/ifruPpjZsxAAAAAM/stairs.gif" width="200">
+  <img align="right" src="https://media.tenor.com/58oABCgvBdEAAAAM/davy-jones-gameplayrj.gif" width="200">
 </p>
 
 ### Linguagens que sei:
