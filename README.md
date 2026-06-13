@@ -28,6 +28,14 @@
     style="padding-right: 10px;" 
     src="https://img.itch.zone/aW1nLzIwODg3MTg1LnBuZw==/original/UDyJj3.png" 
 />
+<img 
+    align="left" 
+    alt="Monster" 
+    title="com leite"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://fragfuel.pt/cdn/shop/files/monster-energy-java-cafe-latte-fragfuel-65463.png?v=1751936570"
+/>
 <br/>
 <br/>
 
