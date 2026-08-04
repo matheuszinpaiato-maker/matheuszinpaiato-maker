@@ -20,8 +20,13 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/c-programming.png" 
 />
+<img 
+    align="left" 
+    alt="html" 
+    title="html"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/174/174854.png" 
+/>
 <br/>
-<br/>
-
 </p>
-<br><br>
