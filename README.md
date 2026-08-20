@@ -1,4 +1,4 @@
-# z👨🏽‍💻 Matheus Dorigan Paiato
+# 👨🏽‍💻 Matheus Dorigan Paiato
 <br/>
 
 <picture>
