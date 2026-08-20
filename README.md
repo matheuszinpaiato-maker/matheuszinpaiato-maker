@@ -7,26 +7,28 @@
 </p>
 
 ### Linguagens que sei:
-<img 
-    align="left" 
-    width="45px" 
-    style="padding-right: 10px;" 
-/>
-<img 
-    align="left" 
+
+<p align="left">
+  <img 
     alt="C" 
     title="C"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/600/c-programming.png" 
-/>
-<img 
-    align="left" 
-    alt="html" 
-    title="html"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/174/174854.png" 
-/>
+    width="45px"
+    src="https://img.icons8.com/color/600/c-programming.png"
+  />
+  &nbsp;&nbsp;
+  <img 
+    alt="HTML" 
+    title="HTML"
+    width="40px"
+    src="https://cdn-icons-png.flaticon.com/512/174/174854.png"
+  />
+  &nbsp;&nbsp;
+  <img 
+    alt="CSS" 
+    title="CSS"
+    width="50px"
+    src="https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png"
+  />
+</p>
 <br/>
 </p>
