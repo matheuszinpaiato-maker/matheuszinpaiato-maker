@@ -19,7 +19,7 @@
   <img 
     alt="HTML" 
     title="HTML"
-    width="40px"
+    width="45px"
     src="https://cdn-icons-png.flaticon.com/512/174/174854.png"
   />
   &nbsp;&nbsp;
