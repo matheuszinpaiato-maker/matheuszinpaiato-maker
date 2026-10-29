@@ -26,17 +26,16 @@ Olá! 👋 Sou Matheus Dorigan Paiato, estudante do SESI SENAI ds. Tenho interes
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   />
   <img 
-    alt="C" 
-    title="C"
-    width="50px"
-    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
-  />
-  &nbsp;&nbsp;
-  <img 
     alt="CSS" 
     title="CSS"
     width="50px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  />
+  <img 
+    alt="C" 
+    title="C"
+    width="45px"
+    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
   />
   <img 
     alt="JAVA" 
