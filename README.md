@@ -1,43 +1,46 @@
 # 👨🏽‍💻 Matheus Dorigan Paiato
-<br/>
+Olá! 👋 Sou Matheus Dorigan Paiato, estudante do SESI SENAI ds. Tenho interesse em analise e desenvolvimento de sistemas. Busco escrever código limpo, escalável e bem estruturado e com aprendizado contínuo.
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroImenes/LeandroImenes/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroImenes/LeandroImenes/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeandroImenes/LeandroImenes/output/github-contribution-grid-snake.svg"> </picture>
 <br><br>
 
-<p>
-  <img align="right" src="https://media.tenor.com/JPxmIAA2hfgAAAAM/kratos-fortnite-kratos.gif" width="200">
-</p>
+<div> 
+  <a href="https://www.instagram.com/matheus_paiat0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### Linguagens que sei:
+## 
 
 <p align="left">
   <img 
-    alt="C" 
-    title="C"
-    width="45px"
-    src="https://img.icons8.com/color/600/c-programming.png"
+    alt="SQL" 
+    title="SQL"
+    width="50px"
+    src="https://camo.githubusercontent.com/aec683e655e349f3dc73a465f894909477c92e044864bb44669a98b6098fb3be/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032362f30362f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e706e67"
   />
-  &nbsp;&nbsp;
   <img 
     alt="HTML" 
     title="HTML"
-    width="43px"
-    src="https://cdn-icons-png.flaticon.com/512/174/174854.png"
+    width="50px"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  />
+  <img 
+    alt="C" 
+    title="C"
+    width="50px"
+    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
   />
   &nbsp;&nbsp;
   <img 
     alt="CSS" 
     title="CSS"
     width="50px"
-    src="https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
   <img 
     alt="JAVA" 
     title="JAVA"
     width="50px"
-    src="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F512%2Fjavascript--v1.png&data=05%7C02%7Cmatheus.paiato%40portalsesisp.org.br%7C5db03e604e72463306ff08df0834a13e%7Cb1051c4b3b9441ab9441e73a72342fdd%7C0%7C0%7C639238694264983931%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XUnRIqD5wA7Ryib41WmCqDpd4tMXxlDCtqCZKyNXmHE%3D&reserved=0"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
-</p>
-<br/>
-</p>
