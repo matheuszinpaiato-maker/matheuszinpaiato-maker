@@ -34,8 +34,8 @@ src="https://camo.githubusercontent.com/aec683e655e349f3dc73a465f894909477c92e04
   <img 
     alt="C" 
     title="C"
-    width="45px"
-    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    width="47px"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
   />
   <img 
     alt="JAVA" 
